@@ -1,0 +1,10 @@
+c:\users\dmatute\documents\visual studio 2015\Projects\Referencias\Referencias\bin\Debug\Referencias.exe.config
+c:\users\dmatute\documents\visual studio 2015\Projects\Referencias\Referencias\bin\Debug\Referencias.exe
+c:\users\dmatute\documents\visual studio 2015\Projects\Referencias\Referencias\bin\Debug\Referencias.pdb
+c:\users\dmatute\documents\visual studio 2015\Projects\Referencias\Referencias\obj\Debug\Referencias.csprojResolveAssemblyReference.cache
+c:\users\dmatute\documents\visual studio 2015\Projects\Referencias\Referencias\obj\Debug\Referencias.Form1.resources
+c:\users\dmatute\documents\visual studio 2015\Projects\Referencias\Referencias\obj\Debug\Referencias.Properties.Resources.resources
+c:\users\dmatute\documents\visual studio 2015\Projects\Referencias\Referencias\obj\Debug\Referencias.csproj.GenerateResource.Cache
+c:\users\dmatute\documents\visual studio 2015\Projects\Referencias\Referencias\obj\Debug\Referencias.exe
+c:\users\dmatute\documents\visual studio 2015\Projects\Referencias\Referencias\obj\Debug\Referencias.pdb
+c:\users\dmatute\documents\visual studio 2015\Projects\Referencias\Referencias\obj\Debug\Referencias.Form2.resources

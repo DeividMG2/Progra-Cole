@@ -1,0 +1,9 @@
+c:\users\dmatute\documents\visual studio 2015\Projects\Ejecicio_DataGrid\Ejecicio_DataGrid\bin\Debug\Ejecicio_DataGrid.exe.config
+c:\users\dmatute\documents\visual studio 2015\Projects\Ejecicio_DataGrid\Ejecicio_DataGrid\obj\Debug\Ejecicio_DataGrid.csprojResolveAssemblyReference.cache
+c:\users\dmatute\documents\visual studio 2015\Projects\Ejecicio_DataGrid\Ejecicio_DataGrid\obj\Debug\Ejecicio_DataGrid.Form1.resources
+c:\users\dmatute\documents\visual studio 2015\Projects\Ejecicio_DataGrid\Ejecicio_DataGrid\obj\Debug\Ejecicio_DataGrid.Properties.Resources.resources
+c:\users\dmatute\documents\visual studio 2015\Projects\Ejecicio_DataGrid\Ejecicio_DataGrid\obj\Debug\Ejecicio_DataGrid.csproj.GenerateResource.Cache
+c:\users\dmatute\documents\visual studio 2015\Projects\Ejecicio_DataGrid\Ejecicio_DataGrid\bin\Debug\Ejecicio_DataGrid.exe
+c:\users\dmatute\documents\visual studio 2015\Projects\Ejecicio_DataGrid\Ejecicio_DataGrid\bin\Debug\Ejecicio_DataGrid.pdb
+c:\users\dmatute\documents\visual studio 2015\Projects\Ejecicio_DataGrid\Ejecicio_DataGrid\obj\Debug\Ejecicio_DataGrid.exe
+c:\users\dmatute\documents\visual studio 2015\Projects\Ejecicio_DataGrid\Ejecicio_DataGrid\obj\Debug\Ejecicio_DataGrid.pdb

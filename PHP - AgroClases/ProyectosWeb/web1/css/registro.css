@@ -1,0 +1,80 @@
+.main{
+    position: relative;
+    text-align: center;
+    background-color: rgba(255, 255, 255, .9);
+    width: 500px;
+    margin: auto;
+    margin-top: 75px;
+    margin-bottom: 15px;
+    color:white;
+    border-radius: 30px; 
+    border: 10px solid #94D242;
+}
+.user{
+
+    font-size: 30px;
+    
+}
+.button{
+    margin: 20px;
+    background-color: #94D242;
+    font-size: 20px;
+    border-style: none;
+    color: white;
+    height: 50px;
+    width: 250px;
+    margin-left: 60px;
+    border-radius: 25px;
+}
+.button:hover{
+    cursor: pointer;
+    border-style: solid;
+    border-color: white;
+}
+.inp,.inp3{
+    margin: 10px;
+    background-color: white;
+    border-color: white;
+    height: 50px;
+    width: 350px;
+    font-size: 25px;
+}
+.inp3{
+    margin-bottom:30px
+}
+body{
+    font-family: courier,arial,helvetica;
+    background-image:url("../images/prueba.jpg") ;
+    background-size: cover;
+    background-position: center;
+    
+}
+.forget{
+    color: #B3CCCF;
+    font-size: 20px;
+    margin-left: 135px;
+}
+.tipoUser{
+    border: 3px solid #94D242;
+    text-align: center;
+}
+.forget:hover{
+    color:white;
+}
+
+::placeholder{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+h1{
+    color:#94D242;
+    padding-top: 50px;
+    padding-left: 30px;
+    font-size: 50px;
+}
+
+.iconos{
+    color: #B3CCCF;
+}

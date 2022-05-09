@@ -1,0 +1,9 @@
+c:\users\dmatute\documents\visual studio 2015\Projects\ARREGLO\ARREGLO\bin\Debug\ARREGLO.exe.config
+c:\users\dmatute\documents\visual studio 2015\Projects\ARREGLO\ARREGLO\obj\Debug\ARREGLO.csprojResolveAssemblyReference.cache
+c:\users\dmatute\documents\visual studio 2015\Projects\ARREGLO\ARREGLO\obj\Debug\ARREGLO.Form1.resources
+c:\users\dmatute\documents\visual studio 2015\Projects\ARREGLO\ARREGLO\obj\Debug\ARREGLO.Properties.Resources.resources
+c:\users\dmatute\documents\visual studio 2015\Projects\ARREGLO\ARREGLO\obj\Debug\ARREGLO.csproj.GenerateResource.Cache
+C:\Users\dmatute\Documents\Visual Studio 2015\Projects\ARREGLO\ARREGLO\bin\Debug\ARREGLO.exe
+C:\Users\dmatute\Documents\Visual Studio 2015\Projects\ARREGLO\ARREGLO\bin\Debug\ARREGLO.pdb
+C:\Users\dmatute\Documents\Visual Studio 2015\Projects\ARREGLO\ARREGLO\obj\Debug\ARREGLO.exe
+C:\Users\dmatute\Documents\Visual Studio 2015\Projects\ARREGLO\ARREGLO\obj\Debug\ARREGLO.pdb

@@ -1,0 +1,83 @@
+body {
+  background-image: url("../images/mante.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+form {
+  display: none;
+}
+
+table {
+  margin: auto;
+  text-align: center;
+}
+
+header {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.5);
+  height: 200px;
+  padding-top: 5px;
+  font-family: monospace;
+  margin-bottom: 30px;
+  width: 100%;
+}
+
+h1 {
+  font-family: cursive;
+  color: #94d242;
+  font-size: 55px;
+}
+
+li {
+  margin-top: 25px;
+}
+
+.contenedor {
+  background-color: #e0f8e6;
+  width: 40%;
+  margin: auto;
+  text-align: center;
+}
+.tabla {
+  padding: 50px 50px;
+  background: rgb(131,58,180);
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+.main {
+  width: 600px;
+  background-color: white;
+  color: white;
+  margin: auto;
+}
+
+td{
+  background-color: white;
+  color: black;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+  "Lucida Sans", Arial, sans-serif;
+}
+
+.a-nav {
+  color: rgba(35, 91, 137);
+  margin-right: 80px;
+  text-decoration: none;
+  font-size: 18px;
+  background-color: white;
+}
+
+nav a:hover {
+  text-decoration: underline;
+  background-color: #94d242;
+  color: white;
+}
+
+li a:hover {
+  color: #94d242;
+  background-color: #94d242;
+  color: white;
+}
+
+/* ****Metodo para desenfocar un elemento*** */
+/* filter: blur(6px); */

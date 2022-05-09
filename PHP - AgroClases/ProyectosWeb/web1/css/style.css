@@ -1,0 +1,81 @@
+body {
+  font-family: courier, arial, helvetica;
+  background-image: url("../images/fondo_login2.png");
+  background-size: cover;
+  background-position: center;
+}
+h1 {
+  color: rgba(38, 180, 217 );
+  padding-top: 50px;
+  padding-left: 30px;
+  font-size: 50px;
+}
+.main {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.5);
+  width: 500px;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  color: white;
+  border-radius: 30px;
+  border: 10px solid rgba(38, 180, 217 );
+}
+.user {
+  font-size: 30px;
+}
+.button {
+  margin: 20px;
+  background-color: #94d242;
+  font-size: 20px;
+  border-style: none;
+  color: white;
+  height: 50px;
+  width: 250px;
+  margin-bottom: 20px;
+  margin-left: 60px;
+  border-radius: 25px;
+}
+.button:hover {
+  cursor: pointer;
+  border-style: solid;
+  border-color: white;
+}
+.inp {
+  margin: 10px;
+  background-color: white;
+  border-color: white;
+  height: 50px;
+  width: 350px;
+  font-size: 25px;
+}
+
+.forget {
+  color: #b3cccf;
+  font-size: 20px;
+  margin-left: 135px;
+}
+.forget:hover {
+  color: white;
+}
+
+::placeholder {
+  font-size: 25px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.iconos {
+  color: rgba(38, 180, 217, 1);
+}
+
+.link{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.link a:hover{
+    color: red;
+}

@@ -1,0 +1,12 @@
+c:\users\dmatute\documents\visual studio 2015\Projects\Examen_Deivid_Y_Stephanie\Examen_Deivid_Y_Stephanie\bin\Debug\Examen_Deivid_Y_Stephanie.exe.config
+c:\users\dmatute\documents\visual studio 2015\Projects\Examen_Deivid_Y_Stephanie\Examen_Deivid_Y_Stephanie\obj\Debug\Examen_Deivid_Y_Stephanie.csprojResolveAssemblyReference.cache
+c:\users\dmatute\documents\visual studio 2015\Projects\Examen_Deivid_Y_Stephanie\Examen_Deivid_Y_Stephanie\obj\Debug\Examen_Deivid_Y_Stephanie.Inicio.resources
+c:\users\dmatute\documents\visual studio 2015\Projects\Examen_Deivid_Y_Stephanie\Examen_Deivid_Y_Stephanie\obj\Debug\Examen_Deivid_Y_Stephanie.Properties.Resources.resources
+c:\users\dmatute\documents\visual studio 2015\Projects\Examen_Deivid_Y_Stephanie\Examen_Deivid_Y_Stephanie\obj\Debug\Examen_Deivid_Y_Stephanie.csproj.GenerateResource.Cache
+c:\users\dmatute\documents\visual studio 2015\Projects\Examen_Deivid_Y_Stephanie\Examen_Deivid_Y_Stephanie\bin\Debug\Examen_Deivid_Y_Stephanie.exe
+c:\users\dmatute\documents\visual studio 2015\Projects\Examen_Deivid_Y_Stephanie\Examen_Deivid_Y_Stephanie\bin\Debug\Examen_Deivid_Y_Stephanie.pdb
+c:\users\dmatute\documents\visual studio 2015\Projects\Examen_Deivid_Y_Stephanie\Examen_Deivid_Y_Stephanie\obj\Debug\Examen_Deivid_Y_Stephanie.exe
+c:\users\dmatute\documents\visual studio 2015\Projects\Examen_Deivid_Y_Stephanie\Examen_Deivid_Y_Stephanie\obj\Debug\Examen_Deivid_Y_Stephanie.pdb
+C:\Users\dmatute\Documents\Visual Studio 2015\Projects\Examen_Deivid_Y_Stephanie\Examen_Deivid_Y_Stephanie\obj\Debug\Examen_Deivid_Y_Stephanie.eliminar.resources
+C:\Users\dmatute\Documents\Visual Studio 2015\Projects\Examen_Deivid_Y_Stephanie\Examen_Deivid_Y_Stephanie\obj\Debug\Examen_Deivid_Y_Stephanie.Registrar.resources
+C:\Users\dmatute\Documents\Visual Studio 2015\Projects\Examen_Deivid_Y_Stephanie\Examen_Deivid_Y_Stephanie\obj\Debug\Examen_Deivid_Y_Stephanie.Buscar.resources

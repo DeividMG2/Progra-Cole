@@ -1,0 +1,29 @@
+body{
+    background-color: darkcyan;
+}
+
+h1{
+    color:white;
+}
+
+.main{
+    background-color:teal;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 100px;
+    border: dotted 10px;
+    color: white;
+}
+
+.c1{
+    background-color: white;
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+    margin: 20px;
+    padding-top: 25px;
+    color: #222;
+}

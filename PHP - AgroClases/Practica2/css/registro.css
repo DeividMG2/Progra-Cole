@@ -1,0 +1,94 @@
+.main{
+    position: relative;
+    text-align: center;
+    background-color: #222;
+    width: 500px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color:white;
+    border-radius: 30px; 
+    border: 10px solid white;
+}
+.user{
+
+    font-size: 30px;
+    
+}
+.button{
+    margin: 20px;
+    background-color: #94D242;
+    font-size: 20px;
+    border-style: none;
+    color: white;
+    height: 50px;
+    width: 250px;
+    margin-bottom: 20px;
+    margin-left: 60px;
+    border-radius: 25px;
+}
+.button:hover{
+    cursor: pointer;
+    border-style: solid;
+    border-color: white;
+
+}
+.inp{
+    margin: 10px;
+    background-color: white;
+    border-color: white;
+    height: 50px;
+    width: 350px;
+    font-size: 25px;
+    
+    
+}
+body{
+    font-family: courier,arial,helvetica;
+    background-color: black;
+    
+}
+.forget{
+    color: #B3CCCF;
+    font-size: 20px;
+    margin-left: 135px;
+}
+.forget:hover{
+    color:white;
+}
+
+::placeholder{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+h1{
+    color:#94D242;
+    padding-top: 50px;
+    padding-left: 30px;
+    font-size: 50px;
+}
+
+.iconos{
+    color: #B3CCCF;
+}
+
+.button2{
+   
+    background-color: #B3CCCF;
+    font-size: 20px;
+    border-style: none;
+    color: gray;
+    height: 50px;
+    width: 250px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    border-radius: 25px;
+}
+
+.button2:hover{
+    cursor: pointer;
+    border-style: solid;
+    border-color: #4E5758;
+}

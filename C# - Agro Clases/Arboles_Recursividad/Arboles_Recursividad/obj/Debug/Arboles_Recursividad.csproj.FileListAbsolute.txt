@@ -1,0 +1,19 @@
+C:\Users\Leonardo\source\repos\Arboles_Recursividad\Arboles_Recursividad\bin\Debug\Arboles_Recursividad.exe.config
+C:\Users\Leonardo\source\repos\Arboles_Recursividad\Arboles_Recursividad\bin\Debug\Arboles_Recursividad.exe
+C:\Users\Leonardo\source\repos\Arboles_Recursividad\Arboles_Recursividad\bin\Debug\Arboles_Recursividad.pdb
+C:\Users\Leonardo\source\repos\Arboles_Recursividad\Arboles_Recursividad\obj\Debug\Arboles_Recursividad.csprojAssemblyReference.cache
+C:\Users\Leonardo\source\repos\Arboles_Recursividad\Arboles_Recursividad\obj\Debug\Arboles_Recursividad.Form1.resources
+C:\Users\Leonardo\source\repos\Arboles_Recursividad\Arboles_Recursividad\obj\Debug\Arboles_Recursividad.Properties.Resources.resources
+C:\Users\Leonardo\source\repos\Arboles_Recursividad\Arboles_Recursividad\obj\Debug\Arboles_Recursividad.csproj.GenerateResource.cache
+C:\Users\Leonardo\source\repos\Arboles_Recursividad\Arboles_Recursividad\obj\Debug\Arboles_Recursividad.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\Arboles_Recursividad\Arboles_Recursividad\obj\Debug\Arboles_Recursividad.exe
+C:\Users\Leonardo\source\repos\Arboles_Recursividad\Arboles_Recursividad\obj\Debug\Arboles_Recursividad.pdb
+C:\Users\dmatute\Documents\Visual Studio 2015\Projects\Arboles_Recursividad\Arboles_Recursividad\bin\Debug\Arboles_Recursividad.exe.config
+C:\Users\dmatute\Documents\Visual Studio 2015\Projects\Arboles_Recursividad\Arboles_Recursividad\obj\Debug\Arboles_Recursividad.exe
+C:\Users\dmatute\Documents\Visual Studio 2015\Projects\Arboles_Recursividad\Arboles_Recursividad\obj\Debug\Arboles_Recursividad.pdb
+C:\Users\dmatute\Documents\Visual Studio 2015\Projects\Arboles_Recursividad\Arboles_Recursividad\bin\Debug\Arboles_Recursividad.exe
+C:\Users\dmatute\Documents\Visual Studio 2015\Projects\Arboles_Recursividad\Arboles_Recursividad\bin\Debug\Arboles_Recursividad.pdb
+C:\Users\dmatute\Documents\Visual Studio 2015\Projects\Arboles_Recursividad\Arboles_Recursividad\obj\Debug\Arboles_Recursividad.csprojResolveAssemblyReference.cache
+C:\Users\dmatute\Documents\Visual Studio 2015\Projects\Arboles_Recursividad\Arboles_Recursividad\obj\Debug\Arboles_Recursividad.Form1.resources
+C:\Users\dmatute\Documents\Visual Studio 2015\Projects\Arboles_Recursividad\Arboles_Recursividad\obj\Debug\Arboles_Recursividad.Properties.Resources.resources
+C:\Users\dmatute\Documents\Visual Studio 2015\Projects\Arboles_Recursividad\Arboles_Recursividad\obj\Debug\Arboles_Recursividad.csproj.GenerateResource.Cache

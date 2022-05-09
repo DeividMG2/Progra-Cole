@@ -1,0 +1,24 @@
+table{
+    background-color: white;
+}
+*{
+    text-align: center;
+}
+td{
+    border: 2px solid black;
+}
+caption{
+   font-size: 20px;
+}
+.imagen{
+    height: 30px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.imagen-2{
+    height: 30px;
+    margin-left: 6px;
+}
+
+

@@ -1,0 +1,12 @@
+c:\users\dmatute\documents\visual studio 2015\Projects\PracticaUno\PracticaUno\bin\Debug\PracticaUno.exe.config
+c:\users\dmatute\documents\visual studio 2015\Projects\PracticaUno\PracticaUno\bin\Debug\PracticaUno.exe
+c:\users\dmatute\documents\visual studio 2015\Projects\PracticaUno\PracticaUno\bin\Debug\PracticaUno.pdb
+c:\users\dmatute\documents\visual studio 2015\Projects\PracticaUno\PracticaUno\obj\Debug\PracticaUno.csprojResolveAssemblyReference.cache
+c:\users\dmatute\documents\visual studio 2015\Projects\PracticaUno\PracticaUno\obj\Debug\PracticaUno.Form1.resources
+c:\users\dmatute\documents\visual studio 2015\Projects\PracticaUno\PracticaUno\obj\Debug\PracticaUno.Properties.Resources.resources
+c:\users\dmatute\documents\visual studio 2015\Projects\PracticaUno\PracticaUno\obj\Debug\PracticaUno.csproj.GenerateResource.Cache
+c:\users\dmatute\documents\visual studio 2015\Projects\PracticaUno\PracticaUno\obj\Debug\PracticaUno.exe
+c:\users\dmatute\documents\visual studio 2015\Projects\PracticaUno\PracticaUno\obj\Debug\PracticaUno.pdb
+C:\Users\dmatute\Documents\Visual Studio 2015\Projects\matute_proyectos\PracticaUno\PracticaUno\bin\Debug\PracticaUno.exe.config
+C:\Users\dmatute\Documents\Visual Studio 2015\Projects\matute_proyectos\PracticaUno\PracticaUno\obj\Debug\PracticaUno.exe
+C:\Users\dmatute\Documents\Visual Studio 2015\Projects\matute_proyectos\PracticaUno\PracticaUno\obj\Debug\PracticaUno.pdb

@@ -1,0 +1,59 @@
+body{
+    background-color: #222;
+    font-family: sans-serif;
+}
+
+.container{
+    margin:auto;
+    background-color: white;
+    width: 800px;
+    padding: 30px;
+
+}
+
+.container img{
+    width: 400px;
+}
+
+ul.slider{
+    position: relative;
+    width: 800px;
+    height: 300px;
+}
+
+ul.slider li{
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+    width: inherit;
+    background-color: white;
+    transition: opacity .3s;
+}
+
+ul.slider li img{
+    width: 400px;
+    height: 300px;
+    /* object-fit: cover; */
+}
+
+ul.slider li:first-child{
+    opacity: 0;
+}
+
+ul.slider li:target{
+    opacity: 1;
+}
+
+/* CREAR BOTONES DERECHA E IZQUIERDA Y USARLOS CON PHP */
+
+.btn1{
+    width: 50px;
+    height: 50px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background-color: cornflowerblue;
+    color: white;
+    border-style: none;
+}

@@ -1,0 +1,12 @@
+c:\users\leonardo\documents\visual studio 2015\Projects\poo_figuras\poo_figuras\bin\Debug\poo_figuras.exe.config
+c:\users\leonardo\documents\visual studio 2015\Projects\poo_figuras\poo_figuras\bin\Debug\poo_figuras.exe
+c:\users\leonardo\documents\visual studio 2015\Projects\poo_figuras\poo_figuras\bin\Debug\poo_figuras.pdb
+c:\users\leonardo\documents\visual studio 2015\Projects\poo_figuras\poo_figuras\obj\Debug\poo_figuras.Form1.resources
+c:\users\leonardo\documents\visual studio 2015\Projects\poo_figuras\poo_figuras\obj\Debug\poo_figuras.Properties.Resources.resources
+c:\users\leonardo\documents\visual studio 2015\Projects\poo_figuras\poo_figuras\obj\Debug\poo_figuras.csproj.GenerateResource.Cache
+c:\users\leonardo\documents\visual studio 2015\Projects\poo_figuras\poo_figuras\obj\Debug\poo_figuras.exe
+c:\users\leonardo\documents\visual studio 2015\Projects\poo_figuras\poo_figuras\obj\Debug\poo_figuras.pdb
+C:\Users\Leonardo\documents\visual studio 2015\Projects\poo_figuras\poo_figuras\obj\Debug\poo_figuras.csprojResolveAssemblyReference.cache
+C:\Users\dmatute\Documents\poo_figuras\poo_figuras\bin\Debug\poo_figuras.exe.config
+C:\Users\dmatute\Documents\poo_figuras\poo_figuras\obj\Debug\poo_figuras.exe
+C:\Users\dmatute\Documents\poo_figuras\poo_figuras\obj\Debug\poo_figuras.pdb
